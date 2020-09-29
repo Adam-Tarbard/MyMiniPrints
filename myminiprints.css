@@ -1,0 +1,15 @@
+.mmp-body-text-size {
+    font-size: 16px;
+}
+
+.mmp-menu-text-size {
+    font-size: 14px;
+}
+
+.icon-block {
+    padding: 0 15px;
+}
+
+.icon-block .material-icons {
+    font-size: inherit;
+}
